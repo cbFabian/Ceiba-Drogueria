@@ -1,0 +1,1 @@
+insert into festivos (fecha) values (:fecha)

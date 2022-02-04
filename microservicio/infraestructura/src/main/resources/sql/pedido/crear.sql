@@ -1,0 +1,1 @@
+insert into pedido (fecha, domicilio) values (:fecha, :domicilio)

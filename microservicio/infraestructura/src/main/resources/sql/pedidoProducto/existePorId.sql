@@ -1,0 +1,1 @@
+select count(1) from pedido_producto where id = :id
